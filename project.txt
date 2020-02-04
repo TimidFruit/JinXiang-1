@@ -1,3 +1,7 @@
 This is a project
+git checkout -b feature/login
 I complete featureA
+I complete featureB
+I complete featureC
 I complete featureD
+
